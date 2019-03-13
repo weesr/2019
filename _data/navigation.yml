@@ -1,0 +1,31 @@
+# Academic Event
+
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Submission"
+    url: /submission/
+  - title: "Important dates"
+    url: /dates/    
+    
+# check schedule.md for hints to create this page    
+  - title: "Program"
+    url: /program/    
+  - title: "Committees"
+    url: /committees/    
+    
+# to enable this pages
+#  - modify _pages/* 
+#  - remove sitemap:false from the metadata    
+    
+#  - title: "Registration"
+#    url: /registration/       
+#  - title: "Logistics"
+#    url: /logistics/
+#  - title: "Speakers"
+#    url: /speakers/
+#  - title: "Code of Conduct"
+#    url: /conduct/
