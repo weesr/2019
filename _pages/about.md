@@ -46,8 +46,9 @@ The presentation of the accepted papers will continue after the keynote talk. Ea
 * *Working session*.
 In this sesion participants will discuss and how to continue and improve the research presented during the workshop how to collaborate each to the others.
 {% endcapture %}
+<!--
 <div class="notice">{{ format | markdownify }}</div>
-
+-->
 
 
 

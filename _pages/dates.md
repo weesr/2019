@@ -15,4 +15,4 @@ redirect_from:
 | Paper Submission     | May 28, 2019 (AOE time) |
 | Paper Notification   | Jun 18, 2019            |
 | Final version        | Jul  2, 2019            |
-| Workshop             | TBD                     |
+| Workshop             | Sept 9-14, 2019 (TBD)   |
