@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Second International Workshop on Empirical Experiences and Studies on Software Reuse (WEESR 2019)"
+title: "Second Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2019)"
 header:
   overlay_image: /assets/weesr/weesr-2019-background.jpg
   caption: "Photo: [PxHere.com](https://c.pxhere.com/photos/e6/04/eiffel_tower_paris_france_tower_eiffel_landmark_architecture_french-557423.jpg!d)"
@@ -16,7 +16,7 @@ redirect_from:
   - /home.html
 ---
  
-**Second Workshop on Empirical Experiences and Studies on Software Reuse (WEESR 2019)**
+**Second Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2019)**
 *colocated with Software Product Line Conference ([SPLC 2019](https://splc2019.net/))*
 
 ---

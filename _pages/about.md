@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Second International Workshop on Empirical Experiences and Studies on Software Reuse (WEESR 2019)"
+title: "Second Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2019)"
 author_profile: true
 classes: wide
 redirect_from:

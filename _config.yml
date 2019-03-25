@@ -11,8 +11,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "WEESR 2019"
 title_separator          : "-"
-name                     : &name "Workshop on Empirical Experiences on Software Reuse"
-description              : &description "Website of the Workshop on Empirical Experiences on Software Reuse (WEESR 2019)"
+name                     : &name "Workshop on Experiences and Empirical Studies on Software Reuse"
+description              : &description "Website of the Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2019)"
 url                      : https://weesr.github.io/
 baseurl                  : 
 repository               : "weesr/weesr.github.io"
