@@ -4,7 +4,7 @@
 
 # Jekyll theme
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : ""
   avatar           : "assets/weesr/weesr-2019.png"
-  bio              : "Have you reused some software component or library?..."
+  bio              : "Have you reused some software component or library?"
   links:
     - label: "at SPLC 2019"
       icon: "fas fa-fw fa-map-marker-alt"
