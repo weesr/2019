@@ -1,6 +1,6 @@
-# MODEVAR website
+# WEESR website
 
-> The website for the Workshop on Empirical Experiences and Studies on Software Reuse (WEESR)
+> The website for the Workshops on Empirical Experiences and Studies on Software Reuse (WEESR)
 
 ---
 
@@ -8,7 +8,7 @@
 
 This is a Jekyll-based website for the WEESR workshop series. This repository comprises templates and files with the content. The real website is generated from these files using the [Jekyll static-website generator](https://jekyllrb.com) and the [minimal mistakes template](https://mmistakes.github.io/minimal-mistakes).
 
-The MODEVAR website is deployed in [Github Pages](https://pages.github.com/). Authors can create new content using [Prose](http://prose.io/), [Netlify](https://www.netlify.com/) or the [Github](https://github.com) web interface. This repository must be cloned/forked only for development.
+The WEESR website is deployed in [Github Pages](https://pages.github.com/). Authors can create new content using [Prose](http://prose.io/), [Netlify](https://www.netlify.com/) or the [Github](https://github.com) web interface. This repository must be cloned/forked only for development.
 
 This site is inspired in [AcademicPages/events](https://github.com/academicpages/events), a fork from the [minimal mistakes template](https://mmistakes.github.io/minimal-mistakes). 
 
