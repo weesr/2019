@@ -21,6 +21,10 @@ redirect_from:
 
 ---
 
+**Deadline have been extended to June 4th 2019.**
+
+---
+
 > The **WEESR** aims to be an space where researchers and practitioners can present their experiences and studies on the area of software reuse, discuss the challenges that must be overcame in non-academic environments and obtain feedback on how the corresponding empirical research may be conducted and improved.
 
 ![This year, WEESR will be at Paris](assets/weesr/weesr-2019-background.jpg "This year, WEESR will be at Paris")
