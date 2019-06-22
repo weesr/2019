@@ -21,11 +21,17 @@ redirect_from:
 
 ---
 
-**Deadline have been extended to June 4th 2019.**
+{% capture link-to-accepted %}
+You may check the list of **[Accepted Papers](./accepted-papers)**.
 
+Please note that [early registration](https://splc2019.net/registration/) ends July 2nd, 2019.
+{% endcapture %}
+<div class="notice--success">{{ link-to-accepted | markdownify }}</div>
 ---
 
 > The **WEESR** aims to be an space where researchers and practitioners can present their experiences and studies on the area of software reuse, discuss the challenges that must be overcame in non-academic environments and obtain feedback on how the corresponding empirical research may be conducted and improved.
+
+
 
 ![This year, WEESR will be at Paris](assets/weesr/weesr-2019-background.jpg "This year, WEESR will be at Paris")
 
