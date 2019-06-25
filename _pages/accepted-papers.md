@@ -4,7 +4,8 @@ title: "Accepted Papers"
 author_profile: true
 sitemap: false
 classes: wide
-
+redirect_from: 
+  - /accepted-paper/
 ---
 
   - Germania Rodriguez, Jennifer Perez and David Benavides. **Accessibility Variability Models: The UTPL MOOC Case Study**
