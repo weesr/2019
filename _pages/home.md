@@ -23,8 +23,6 @@ redirect_from:
 
 {% capture link-to-accepted %}
 You may check the list of **[Accepted Papers](./accepted-papers)**.
-
-Please note that [early registration](https://splc2019.net/registration/) ends July 2nd, 2019.
 {% endcapture %}
 <div class="notice--success">{{ link-to-accepted | markdownify }}</div>
 ---
