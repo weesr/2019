@@ -35,5 +35,5 @@ redirect_from:
 * Julio Ariel Hurtado, Universidad del Cauca, Colombia
 
 ## Contact
-For further information, please send an email at [weesr2019@easychair.org](mailto:weesr2019@easychair.org).
+For further information, please send an email at [weesr.workshop@gmail.com](mailto:weesr.workshop@gmail.com).
 
